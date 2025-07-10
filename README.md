@@ -13,7 +13,7 @@
 - 🚀 Currently working at **Nerdup Technology** – building full-stack, cross-platform mobile apps with React Native
 - 📱 2+ years experience in **React Native**, building scalable cross-platform apps
 - 🔧 Backend enthusiast with hands-on in **Node.js**, **MongoDB**, **Express**, **Firebase**
-- 📍 Living in **Pakistan**, dreaming to grow globally 🌍
+- 📍 Dreaming to grow globally 🌍
 - ⚙️ I enjoy working on complex problems, building clean UIs, and managing real-world backend systems
 
 ---
